@@ -1,0 +1,7 @@
+{
+  "name": "GYM_IONIC_APP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

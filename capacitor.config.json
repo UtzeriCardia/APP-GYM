@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "GYM_IONIC_APP",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
